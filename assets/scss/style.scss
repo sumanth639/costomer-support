@@ -1,0 +1,53 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Consor - Business Consulting Bootstrap 5 Template
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    01. Template default CSS
+    02. Component CSS
+        2.1 - Button CSS
+        2.2 - Blockquote CSS
+        2.3 - Form CSS
+    03. Header CSS
+        3.1 - Header Main CSS
+        3.2 - Mobile Menu CSS
+    04. Page CSS
+        4.1 - Slider CSS
+        4.2 - Services CSS
+        4.3 - Call to Action CSS
+        4.4 - Why Choose Us CSS
+        4.5 - Cases CSS
+        4.6 - Brand CSS
+        4.7 - Customer CSS
+        4.8 - Blog CSS
+        4.9 - Page Banner CSS
+        4.10 - About CSS
+        4.11 - Video CSS
+        4.12 - Consultant CSS
+        4.13 - Service Details CSS
+        4.14 - Blog Details CSS
+        4.15 - Cases Details CSS
+        4.16 - FAQ CSS
+        4.17 - Contact CSS
+        4.18 - 404 Error CSS
+    05. Widget CSS
+        5.1 - Footer Widget CSS
+        5.2 - Sidebar Widget CSS
+    06. Footer CSS
+
+-----------------------------------------------------------------------------------*/
+@import "./bootstrap/functions";
+@import "variables";
+@import "./bootstrap/bootstrap";
+
+@import "common";
+@import "component";
+@import "header";
+@import "page";
+@import "widget";
+@import "footer";
